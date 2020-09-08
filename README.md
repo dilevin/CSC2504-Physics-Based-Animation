@@ -68,10 +68,11 @@ All projects must fall into one of the grand challenge categories below:
 [FEM Simulation of 3D Deformable Solids (Website)](http://www.femdefo.org)
   
 ## Lecture Schedule
+**Don't Panic!:** Prof. Levin will present the first paper
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction and **Paper 1:** tba
+| 1    | Introduction and [**Paper 1:** Elastically Deformable Objects](http://web.cs.ucla.edu/~dt/papers/siggraph87/siggraph87.pdf)
 | 2    | **Paper 2:** tba **Paper 3:** tba
 | 3    | **Paper 4:** tba **Paper 5:** tba
 | 4    | **Paper 6:** tba **Paper 7:** tba
