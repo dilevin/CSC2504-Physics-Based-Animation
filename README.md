@@ -41,7 +41,7 @@ Each week, **two (2)** papers will be assigned for discussion and to structure t
 Project Section
 present project progress, ask questions get answers from me and the class
 
-## Project Sessions 
+### Project Sessions 
 Project sessions will involve discussing project progress, current problems and potential solutions. Each week, all project groups will present 5 minute summary of their project which will reiterate the **project goal**, discuss **current progress**, outline **next steps** and highlight  **technical problems** and **solutions**. 
 
 Final submission is a SIGGRAPH short paper 2 page extended abstract + 5 minute SIGGRAPH style submission video 
