@@ -49,6 +49,8 @@ Final submission is a SIGGRAPH short paper 2 page extended abstract + 5 minute S
 ## Project Details
 Projects are group projects, must fit into one of the "grand challenges" below. Week 7 will be the *pitch day* for projects. Each student will be allowed to pitch there project idea. All students will submit a ranked list of projects they would like to work on, and from this list, I will create a number of 3-5 person groups for the most popular projects. The goal of projects will be to produce a micro-SIGGRAPH submission comprised of a **two (2) page** extended abstract and **five (5) minute** video.
 
+**Due Date:** December 18th, 11:59pm
+
 ### Grand Challenges (more details and examples coming soon)
 All projects must fall into one of the grand challenge categories below:
 1. Differentiable Physics Simulation
