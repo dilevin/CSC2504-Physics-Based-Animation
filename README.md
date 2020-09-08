@@ -73,7 +73,7 @@ All projects must fall into one of the grand challenge categories below:
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1    | Introduction and [**Paper 1:** Elastically Deformable Objects](http://web.cs.ucla.edu/~dt/papers/siggraph87/siggraph87.pdf)
-| 2    | [**Paper 2:** Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) [**Paper 3:** Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.pdf)
+| 2    | [**Paper 2:** Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) [**Paper 3:** Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html)
 | 3    | **Paper 4:** tba **Paper 5:** tba
 | 4    | **Paper 6:** tba **Paper 7:** tba
 | 5    | **Paper 8:** tba **Paper 9:** tba
