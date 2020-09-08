@@ -33,7 +33,7 @@ Each week, **two (2)** papers will be assigned for discussion and to structure t
 
 | Role | Number | Description |
 | ---- | :------------ |:------------|
-| Author |1| | Congratulations, "your" paper has been accepted to an important conference! Prepare a 15-20 minute presentation about "your" work. Because there's a pandemic on you can either deliver the presentation live on Zoom or submit a prerecorded video. 
+| Author | 1| Congratulations, "your" paper has been accepted to an important conference! Prepare a 15-20 minute presentation about "your" work. Because there's a pandemic on you can either deliver the presentation live on Zoom or submit a prerecorded video. 
 | Implementer|1| You've stumbled across a fascinating paper in the depths of the internet that you'd love to use in your research. Bad news! There's no code available! Implement as much of the algorithm as you can from the information given in the paper. Prepare to discuss what the paper explains well, and what it explains poorly, with regard to implementation.|
 | Reviewers |3| You've made it to the big time, and the fate of computer graphics rests in your hand. Fill out the SIGGRAPH review form for this paper, decide whether the paper should be accepted or rejected and prepare to make the final decision, with your fellow reviewers, in class. |
 
