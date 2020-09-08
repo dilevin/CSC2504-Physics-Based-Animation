@@ -20,13 +20,13 @@ Wednesdays 17:00-18:00 via Zoom
 
 ## Course Summary
 
-This course is a graduate-level seminar course on physics-based animation. It will involve reading state-of-the-art papers in the field an implementing algorithms from those papers. The course will feature a final project based on the topic. The course will be delivered in an online synchronous fashion 
+This course is a graduate-level seminar course on physics-based animation. It will involve reading state-of-the-art papers in the field and implementing algorithms from those papers. The course will feature a final project based on the topic. The course will be delivered in an online synchronous fashion. 
   
-The student is expected to read background material as necessary and should be comfortable with elementary linear algebra, geometry,
+Students are expected to read background material as necessary and should be comfortable with elementary linear algebra, geometry,
 and vector calculus. 
 
 ## Course Structure
-This 12 week course is split into two 6 week parts. The first part is a graduate *seminar* couse on physics-based animation which will involve reading, analyzing and commenting on both seminal and cutting-edge works in the field. The second part of the course is *project* focused, in which students will work in groups on "grand challenges" in physics-based animation. During this time, only one paper will be discussed per lecture.
+This 12 week course is split into two 6 week parts. The first part is a graduate *seminar* course on physics-based animation which will involve reading, analyzing and commenting on both seminal and cutting-edge works in the field. The second part of the course is *project* focused, in which students will work in groups on "grand challenges" in physics-based animation. During this time, only one paper will be discussed per lecture.
 
 ### Seminar Sessions
 Each week, **two (2)** papers will be assigned for discussion and to structure the discussion, students will be assigned roles. Roles will change each week and they are:
@@ -38,12 +38,12 @@ Each week, **two (2)** papers will be assigned for discussion and to structure t
 | Reviewers |3| You've made it to the big time, and the fate of computer graphics rests in your hand. Fill out the SIGGRAPH review form for this paper, decide whether the paper should be accepted or rejected and prepare to make the final decision, with your fellow reviewers, in class. |
 
 ### Project Sessions 
-Project sessions will involve discussing project progress, current problems and potential solutions. Each week, all project groups will present 5 minute summary of their project which will reiterate the **project goal**, discuss **current progress**, outline **next steps** and highlight  **technical problems** and **solutions**. 
-
-Final submission is a SIGGRAPH short paper 2 page extended abstract + 5 minute SIGGRAPH style submission video 
+Project sessions will involve discussing project progress, current problems and potential solutions. Each week, all project groups will present a 5 minute summary of their project which will reiterate the **project goal**, discuss **current progress**, outline **next steps** and highlight  **technical problems** and **solutions**. 
 
 ## Project Details
-Projects are group projects, must fit into one of the "grand challenges" below. Week 7 will be the *pitch day* for projects. Each student will be allowed to pitch there project idea. All students will submit a ranked list of projects they would like to work on, and from this list, I will create a number of 3-5 person groups for the most popular projects. The goal of projects will be to produce a micro-SIGGRAPH submission comprised of a **two (2) page** extended abstract and **five (5) minute** video.
+Projects will be done in groups and must fit into one of the "grand challenges" below. Week 7 will be the *pitch day* for projects. Each student will be allowed to pitch a project idea. All students will submit a ranked list of projects they would like to work on, and from this list, I will create a number of 3-5 person groups for the most popular projects. 
+
+**Deliverable:**  a micro-SIGGRAPH submission comprised of a **two (2) page** extended abstract and **five (5) minute** submission style video.
 
 **Due Date:** December 18th, 11:59pm
 
@@ -73,7 +73,7 @@ All projects must fall into one of the grand challenge categories below:
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1    | Introduction and [**Paper 1:** Elastically Deformable Objects](http://web.cs.ucla.edu/~dt/papers/siggraph87/siggraph87.pdf)
-| 2    | **Paper 2:** tba **Paper 3:** tba
+| 2    | [**Paper 2:** Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) [**Paper 3:** Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.pdf)
 | 3    | **Paper 4:** tba **Paper 5:** tba
 | 4    | **Paper 6:** tba **Paper 7:** tba
 | 5    | **Paper 8:** tba **Paper 9:** tba
