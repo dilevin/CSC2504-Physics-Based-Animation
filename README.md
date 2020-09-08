@@ -11,33 +11,51 @@
 ## Instructors
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
 diwlevin@cs.toronto.edu  
-+1 416-978-2052  
-
-Office Hours: Wednesdays 17:00-18:00 in BA5268
-
-## TA  
-Derek Liu
-hsuehtil@cs.toronto.edu
 
 ## Lectures
-Wednesdays 15:00-17:00 in Wilson Hall (WI 524) 
+Wednesdays 15:00-17:00 via Zoom **NOTE: link sent via email to registered students**
 
-## Links
+## Office Hours
+Wednesdays 17:00-18:00 via Zoom
 
-Bulletin Board using [Discourse](https://bb-2019-09.teach.cs.toronto.edu/c/csc2549)
+## Course Summary
 
-Hand in assignments using [MarkUs](https://markus.teach.cs.toronto.edu/csc2549-2019-09/).
-
-## Course Overview
-
-This course is designed to introduce students to the field of physics-based animation by exposing  them to the underlying mathematical and algorithmic techniques required to understand and develop efficient numerical simulations of physical phenomena such as rigid bodies, deformable bodies and fluids. In Physics-Based Animation we will learn how to develop algorithms that produce visually compelling representations of physical systems.  We will learn the underlying continuous mathematics describing the motion of physical objects, explore how to discretize them and how to solve the resulting discrete equations quickly and robustly. 
+This course is a graduate-level seminar course on physics-based animation. It will involve reading state-of-the-art papers in the field an implementing algorithms from those papers. The course will feature a final project based on the topic. The course will be delivered in an online synchronous fashion 
   
-**Prerequisites:** C/C++ Programming, Linear Algebra, Calculus, Numerical
-Methods 
-
 The student is expected to read background material as necessary and should be comfortable with elementary linear algebra, geometry,
-and vector calculus. It is also assumed that the student is comfortable
-programming in basic C++.
+and vector calculus. 
+
+## Course Structure
+This 12 week course is split into two 6 week parts. The first part is a graduate *seminar* couse on physics-based animation which will involve reading, analyzing and commenting on both seminal and cutting-edge works in the field. The second part of the course is *project* focused, in which students will work in groups on "grand challenges" in physics-based animation. During this time, only one paper will be discussed per lecture.
+
+### Seminar Sessions
+Each week, **two (2)** papers will be assigned for discussion and to structure the discussion, students will be assigned roles. Roles will change each week and they are:
+
+| Role | Number | Description |
+| ---- | :------------ |:------------|
+| Author |1| | Congratulations, "your" paper has been accepted to an important conference! Prepare a 15-20 minute presentation about "your" work. Because there's a pandemic on you can either deliver the presentation live on Zoom or submit a prerecorded video. 
+| Implementer|1| You've stumbled across a fascinating paper in the depths of the internet that you'd love to use in your research. Bad news! There's no code available! Implement as much of the algorithm as you can from the information given in the paper. Prepare to discuss what the paper explains well, and what it explains poorly, with regard to implementation.|
+| Reviewers |3| You've made it to the big time, and the fate of computer graphics rests in your hand. Fill out the SIGGRAPH review form for this paper, decide whether the paper should be accepted or rejected and prepare to make the final decision, with your fellow reviewers, in class. |
+
+
+Project Section
+present project progress, ask questions get answers from me and the class
+
+## Project Sessions 
+Project sessions will involve discussing project progress, current problems and potential solutions. Each week, all project groups will present 5 minute summary of their project which will reiterate the **project goal**, discuss **current progress**, outline **next steps** and highlight  **technical problems** and **solutions**. 
+
+Final submission is a SIGGRAPH short paper 2 page extended abstract + 5 minute SIGGRAPH style submission video 
+
+## Project Details
+Projects are group projects, must fit into one of the "grand challenges" below. Week 7 will be the *pitch day* for projects. Each student will be allowed to pitch there project idea. All students will submit a ranked list of projects they would like to work on, and from this list, I will create a number of 3-5 person groups for the most popular projects. The goal of projects will be to produce a micro-SIGGRAPH submission comprised of a **two (2) page** extended abstract and **five (5) minute** video
+
+### Grand Challenges
+All projects must fall into one of the grand challenge categories below:
+1. Differentiable Physics Simulation
+2. Direct Simulation from Computer-Aided-Design Tools
+3. Biomechanical Simulation for Digital Humans
+4. Machine Learning for Material Behaviour 
+
 
 **_(Strongly)_ Recommended preparation:** Multivariable Calculus
 
@@ -58,19 +76,19 @@ programming in basic C++.
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | [Introduction, the 1D mass-spring system](lectures/01-Intro-plain_edited-min.pdf), [Assignment 1 (1D mass-springs)](https://github.com/dilevin/CSC2549-a1-mass-spring-1d) due 27/09    
-| 2    | [Explicit and implicit time integration](lectures/02-Time-Integration_edited.pdf)  
-| 3    | [Mass-spring systems in three dimensions](lectures/03-Mass-Spring-3d-edited.pdf), [Assignment 2 (3D mass-springs)](https://github.com/dilevin/CSC2549-a2-mass-spring-3d) due 04/10  
-| 4    | [Finite Elements for simulating nonlinear elastodynamics of solids](lectures/04-finite-elements-3d-edited.pdf), [Assignment 3 (3D FEM)](https://github.com/dilevin/CSC2549-a3-finite-elements-3d) due ~~11/10~~ 18/10  
-| 5    | [Finite Elements for simulating nonlinear elastodynamics of solids II](lectures/05-finite-elements-continued-edited.pdf), [Assignment 4 (Cloth simulation)](https://github.com/dilevin/CSC2549-a4-cloth-simulation) due ~~18/10~~ ~~25/10~~ 1/11  
-| 6    | [Finite Elements for simulating cloth and shells](lectures/06-cloth-simulation-edited.pdf) ~~Fluid simulation using Finite Volume Methods~~  
-| 7    | [Rigid body mechanics](lectures/07-rigid-bodies-edited.pdf), [Assignment 5 (Rigid body simulation)](https://github.com/dilevin/CSC2549-a5-rigid-bodies) due ~~01/11~~ 8/11  
+| 1    | 
+| 2    | 
+| 3    | 
+| 4    | 
+| 5    | 
+| 6    | 
+| 7    | 
 | **October 28** | Drop date (consider if grade so far is <50%)  
-| 8    | [Jointed Rigid Body Systems](lectures/08-rigid-bodies-and-joints-edited.pdf)
-| 9    | ~~Collision detection and contact resolution~~, [Assignment 6 (Rigid body collision resolution)](https://github.com/dilevin/CSC2549-a6-rigid-body-contact) due ~~08/11~~ 15/11  
-| 10   | [Collision Detection, Contact Resoution and Fast algorithms for physics-based animation](lectures/10-rigid-body-contanct-fast-solvers-edit.pdf) 
-| 11   | ~~Fluid simulation using Finite Volume Methods~~ ~~Special Lecture~~
-| 12   | Final Project Presentations 
+| 8    | 
+| 9    | 
+| 10   | 
+| 11   | 
+| 12   | 
 
 [Academic Honesty (required reading)](#academic-honesty)
 
@@ -78,15 +96,13 @@ programming in basic C++.
 
 | % | Item |
 | ----: | :-------------- |
-| 60% | Assignments
-| 10% | Class Participation 
-| 30% | Final Project 
-
-There will be six programming assignments in total (10% each).
+| 25% | Reviewing Quality 
+| 25% | Engineer/Presentation Quality
+| 50% | Final Project 
 
 ## Lateness Policy
 
-Assignments are **_due by 11:59pm_** on the due date.
+Project is **_due by 11:59pm_** on the due date.
 
 0.007% off for every minute late.
 
