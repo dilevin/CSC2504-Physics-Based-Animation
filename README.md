@@ -96,8 +96,8 @@ All projects must fall into one of the grand challenge categories below:
 
 | % | Item |
 | ----: | :-------------- |
-| 25% | Reviewing Quality 
-| 25% | Engineer/Presentation Quality
+| 25% | Reviewing 
+| 25% | Engineer/Presentation
 | 50% | Final Project 
 
 ## Lateness Policy
