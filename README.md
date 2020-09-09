@@ -124,7 +124,7 @@ For purposes of this class, academic dishonesty is defined as:
   others, interfering with their access to resources (e.g., digital cameras), or
   deliberately providing them with misleading information.
 
-### Email & Bulletin Board Traffic
+### Email & GitHub Issues
 
 - The GitHub issues are for answering questions about class or about the assignments. The TAs will be monitoring the posted issues.
 - Appropriate use of the issues: clarifications on assignment, on lecture
