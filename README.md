@@ -126,14 +126,11 @@ For purposes of this class, academic dishonesty is defined as:
 
 ### Email & Bulletin Board Traffic
 
-- Please do not send email directly to the TAs. They will not be replied.
-- Main forum for answering questions about class or about the assignments is the
-  class bulletin board. The TAs will be monitoring the board.
-- Appropriate use of the board: clarifications on assignment, on lecture
+- The GitHub issues are for answering questions about class or about the assignments. The TAs will be monitoring the posted issues.
+- Appropriate use of the issues: clarifications on assignment, on lecture
   material, general concerns about the course, or other remarks that are
   appropriate for all students to see/participate in.
-- Do NOT broadcast pieces of your code or answers to written assignments to the
-  bulletin board. Specific or general implementation questions whose answer
+- Do NOT broadcast pieces of your code or answers to written assignments to the issues page. Specific or general implementation questions whose answer
   would benefit all students in the class are appropriate. However: the bulletin
   board is NO replacement for the tutorial hour. That should be the main forum
   for asking/answering questions of this sort.
