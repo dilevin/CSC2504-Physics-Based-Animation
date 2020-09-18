@@ -74,7 +74,7 @@ All projects must fall into one of the grand challenge categories below:
 | ---- | :------------ |
 | 1    | Introduction and [**Paper 1:** Elastically Deformable Objects](http://web.cs.ucla.edu/~dt/papers/siggraph87/siggraph87.pdf)
 | 2    | [**Paper 2:** Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) [**Paper 3:** Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html)
-| 3    | [**Paper 4:Meshless Deformations Based on Shape Matching**](https://matthias-research.github.io/pages/publications/MeshlessDeformations_SIG05.pdf) [**Paper 5:Robust Treatment of Collisions, Contact and Friction for Cloth Animation**](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf)
+| 3    | [**Paper 4:** Meshless Deformations Based on Shape Matching](https://matthias-research.github.io/pages/publications/MeshlessDeformations_SIG05.pdf) [**Paper 5:** Robust Treatment of Collisions, Contact and Friction for Cloth Animation](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf)
 | 4    | **Paper 6:** tba **Paper 7:** tba
 | 5    | **Paper 8:** tba **Paper 9:** tba
 | 6    | **Paper 10:** tba **Paper 11:** tba
