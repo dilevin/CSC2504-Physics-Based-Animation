@@ -77,7 +77,7 @@ All projects must fall into one of the grand challenge categories below:
 | 3    | [**Paper 4:** Meshless Deformations Based on Shape Matching](https://matthias-research.github.io/pages/publications/MeshlessDeformations_SIG05.pdf) [**Paper 5:** Robust Treatment of Collisions, Contact and Friction for Cloth Animation](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf)
 | 4    | [**Paper 6:** Discrete Elastic Rods](http://www.cs.columbia.edu/cg/rods/) [**Paper 7:** Design and Fabrication of Flexible Rod Meshes](https://www.gmrv.es/Publications/2015/PTCBCSO15/PerezSIG2015.pdf)
 | 5    | [**Paper 8:** Velocity-Based Shock Propagation for Multibody Dynamics Animation](http://image.diku.dk/kenny/download/erleben.07a.pdf) [**Paper 9:** Incremental Potential Contact](https://ipc-sim.github.io) 
-| 6    | **Paper 10:** tba **Paper 11:** tba
+| 6    | [**Paper 10: Dynamics-Aware Numerical Coarsening for Fabrication Design]**(http://people.csail.mit.edu/desaic/projects/desdyn.html) [**Paper 11:** ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](http://crl.ethz.ch/papers/Geilinger20ADD.pdf)
 | 7    | **Paper 12:** tba and *Project Pitch Day*
 | 8    | Project updates and **Paper 14:** tba 
 | 9    | Project updates and **Paper 15:** tba 
