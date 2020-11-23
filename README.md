@@ -80,7 +80,7 @@ All projects must fall into one of the grand challenge categories below:
 | 6    | [**Paper 10:** Dynamics-Aware Numerical Coarsening for Fabrication Design](http://people.csail.mit.edu/desaic/projects/desdyn.html) [**Paper 11:** ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](http://crl.ethz.ch/papers/Geilinger20ADD.pdf)
 | 7    | [**Paper 12:** Data-Driven Models for Cloth Simulation](http://graphics.berkeley.edu/papers/Wang-DDE-2011-08/Wang-DDE-2011-08.pdf) and *Project Pitch Day*
 | 8    | Project updates and **Paper 14:** tba 
-| 9    | Project updates and **Paper 15:** tba 
+| 9    | Project updates and **Paper 15:** [Variational Stokes](http://poisson.cs.uwaterloo.ca/stokes/)
 | 10   | Project updates and **Paper 16:** tba 
 | 11   | Project updates and **Paper 17:** tba 
 | 12   | Project updates and **Paper 18:** tba 
