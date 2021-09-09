@@ -54,6 +54,8 @@ All projects must fall into one of the grand challenge categories below:
 5. Simulation on non-traditional geometric representation
 
 ## Helpful Resources  
+[Intro to Physics-based Animation Course /w video lectures](https://github.com/dilevin/CSC417-physics-based-animation)
+
 [The Variational Principles of Mechanics (Book)](https://search.library.utoronto.ca/details?1576571&uuid=24e9601f-a561-440e-b4f7-0162225ae73d)  
 
 [Numerical Methods for Evolutionary Differential Equations (Book) ](https://search.library.utoronto.ca/details?8723030)
