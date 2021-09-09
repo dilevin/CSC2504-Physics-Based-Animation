@@ -54,19 +54,31 @@ All projects must fall into one of the grand challenge categories below:
 5. Simulation on non-traditional geometric representation
 
 ## Helpful Resources  
-[Intro to Physics-based Animation Course /w video lectures](https://github.com/dilevin/CSC417-physics-based-animation)
-
 [The Variational Principles of Mechanics (Book)](https://search.library.utoronto.ca/details?1576571&uuid=24e9601f-a561-440e-b4f7-0162225ae73d)  
+
+[Calculus of Variations](https://books.google.ca/books/about/Calculus_of_Variations.html?id=YkFLGQeGRw4C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 
 [Numerical Methods for Evolutionary Differential Equations (Book) ](https://search.library.utoronto.ca/details?8723030)
 
 [Fluid Simulation for Graphics (Book)](https://dl.acm.org/citation.cfm?id=1457699)   
+
+[Fluid Simulation for Graphics (Notes)](https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf)   
 
 [Real-time Collision Detection (Book)](https://dl.acm.org/citation.cfm?id=1121584)
 
 [Real Time Physics (Website)](http://matthias-mueller-fischer.ch/realtimephysics/)  
   
 [FEM Simulation of 3D Deformable Solids (Website)](http://www.femdefo.org)
+
+[Matrix and Linear Algebra Identities (PDF)](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+[Geometric Tools (Website)](https://www.geometrictools.com)
+
+[Material Point Method SIGGRAPH Course (PDF)](https://www.seas.upenn.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)
+
+[Two-Minute Papers (YouTube not strictly physics, but cool)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) 
+
+[Prof. Shinjiro Sueda's Rigid Body Mechanics Notes for Joints](https://github.com/sueda/redmax/blob/master/notes.pdf)
   
 ## Lecture Schedule
 **Don't Panic!:** Prof. Levin will present the first paper
