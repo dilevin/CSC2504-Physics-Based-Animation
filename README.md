@@ -13,7 +13,7 @@ Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)
 diwlevin@cs.toronto.edu  
 
 ## Lectures
-Tuesday 13:00-15:00 (first two weeks online) **NOTE: link sent via email to registered students**
+Tuesday 13:00-15:00 (first two weeks online) **NOTE: link sent via Quercus to registered students**
 
 ## Office Hours
 Tuesday 15:00-16:00 (first two weeks online)
