@@ -16,7 +16,7 @@ diwlevin@cs.toronto.edu
 Tuesday 13:00-15:00 (first two weeks online) **NOTE: link sent via email to registered students**
 
 ## Office Hours
-Tuesday 16:00-17:00 (first two weeks online)
+Tuesday 15:00-16:00 (first two weeks online)
 
 ## Course Summary
 
