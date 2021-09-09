@@ -32,7 +32,7 @@ This course is a graduate *seminar* course on physics-based animation which will
 
 **Presenter:** Prepare a 20-30 minute conference style presentation about the paper. After your presentation you will take 10 minutes of questions from the audience.  
 
-**Implementer:** You will have up to **two (2)** to implement as much of the paper as you can. Each week you will demonstrate your progress and discuss, the things you have learned, and issues that have arisen.
+**Implementer:** You will have up to **two (2)** weeks to implement as much of the paper as you can. Each week you will demonstrate your progress and discuss, the things you have learned, and issues that have arisen.
 
 **Blogger:** You will write a medium style blog post (i.e. like [this](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)) about the paper and submit it [here](http://physics.diwlevin.com). Posts are due one week after the implementation is finished. The post should take into account the experiences of the implementer.
 
