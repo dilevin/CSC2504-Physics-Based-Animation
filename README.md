@@ -26,7 +26,7 @@ Students are expected to read background material as necessary and should be com
 and vector calculus. 
 
 ## Course Structure
-This course is a graduate *seminar* course on physics-based animation which will involve reading, analyzing, implementing and commenting on both seminal and cutting-edge works in the field. Each week students will be assigned one of several roles (presenter, implementer, reviewer) and are charged with carrying out the associated responsibilites.
+This course is a graduate *seminar* course on physics-based animation which will involve reading, analyzing, implementing and commenting on both seminal and cutting-edge works in the field. Each week students will be assigned one of several roles (presenter, implementer, blogger, reviewer) and are charged with carrying out the associated responsibilites.
 
 ## Roles and Responsibilities ##
 
