@@ -71,7 +71,7 @@ All projects must fall into one of the grand challenge categories below:
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction and assign [**Paper 1:** Projective Dynamics]
+| 1    | Introduction and assign [**Paper 1:** Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html)
 | 2    | **Paper 2:** TBD
 | 3    | **Paper 3:** TBD
 | 4    | **Paper 4:** TBD
