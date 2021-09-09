@@ -13,39 +13,35 @@ Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)
 diwlevin@cs.toronto.edu  
 
 ## Lectures
-Wednesdays 15:00-17:00 via Zoom **NOTE: link sent via email to registered students**
+Tuesday 13:00-15:00 (first two weeks online) **NOTE: link sent via email to registered students**
 
 ## Office Hours
-Wednesdays 17:00-18:00 via Zoom
+Tuesday 16:00-17:00 (first two weeks online)
 
 ## Course Summary
 
-This course is a graduate-level seminar course on physics-based animation. It will involve reading state-of-the-art papers in the field and implementing algorithms from those papers. The course will feature a final project based on the topic. The course will be delivered in an online synchronous fashion. 
+This course is a graduate-level seminar course on physics-based animation. It will involve reading state-of-the-art papers in the field and implementing algorithms from those papers. The course will feature a final project based on the topic. 
   
 Students are expected to read background material as necessary and should be comfortable with elementary linear algebra, geometry,
 and vector calculus. 
 
 ## Course Structure
-This 12 week course is split into two 6 week parts. The first part is a graduate *seminar* course on physics-based animation which will involve reading, analyzing and commenting on both seminal and cutting-edge works in the field. The second part of the course is *project* focused, in which students will work in groups on "grand challenges" in physics-based animation. During this time, only one paper will be discussed per lecture.
+This course is a graduate *seminar* course on physics-based animation which will involve reading, analyzing, implementing and commenting on both seminal and cutting-edge works in the field. Each week students will be assigned one of several roles (presenter, implementer, reviewer) and are charged with carrying out the associated responsibilites.
 
-### Seminar Sessions
-Each week, **two (2)** papers will be assigned for discussion and to structure the discussion, students will be assigned roles. Roles will change each week and they are:
+## Roles and Responsibilities ##
 
-| Role | Number | Description |
-| ---- | :------------ |:------------|
-| Authour | 1| Congratulations, "your" paper has been accepted to an important conference! Prepare a 15-20 minute presentation about "your" work. Because there's a pandemic on, you can either deliver the presentation live on Zoom or submit a prerecorded video. 
-| Implementer|1| You've stumbled across a fascinating paper in the depths of the internet that you'd love to use in your research. Bad news! There's no code available! Implement as much of the algorithm as you can from the information given in the paper. Prepare to discuss what the paper explains well, and what it explains poorly, with regard to implementation.|
-| Reviewers |~~3~~ 2| You've made it to the big time, and the fate of computer graphics rests in your hands. Fill out the SIGGRAPH review form for this paper, decide whether the paper should be accepted or rejected and prepare to make the final decision, with your fellow reviewers, in class. |
+**Presenter:** Prepare a 20-30 minute conference style presentation about the paper. After your presentation you will take 10 minutes of questions from the audience.  
 
-### Project Sessions 
-Project sessions will involve discussing project progress, current problems and potential solutions. Each week, all project groups will present a 5 minute summary of their project which will reiterate the **project goal**, discuss **current progress**, outline **next steps** and highlight  **technical problems** and **solutions**. 
+**Implementer:** You will have up to **two (2)** to implement as much of the paper as you can. Each week you will demonstrate your progress and discuss, the things you have learned, and issues that have arisen.
 
-## Project Details
-Projects will be done in groups and must fit into one of the "grand challenges" below. Week 7 will be the *pitch day* for projects. Each student will be allowed to pitch a project idea. All students will submit a ranked list of projects they would like to work on, and from this list, I will create a number of 3-5 person groups for the most popular projects. 
+**Reviewer:** You will submit a high-quality review of the paper. Submit your review using the review form [here](https://forms.gle/nyqVhPmquHRKpaA48)
+
+## Final Project Details
+Projects will be done in groups of no more than **three (3)** people. The project must involve implementing a physics algorithm that falls into the grand challenges listed below. Check with the instructor to ensure that your chosen project is of sufficient scope. 
 
 **Deliverable:**  a micro-SIGGRAPH submission comprised of a **two (2) page** extended abstract and **five (5) minute** submission style video.
 
-**Due Date:** December 18th, 11:59pm
+**Due Date:** December 21st, 11:59pm
 
 ### Grand Challenges (more details and examples coming soon)
 All projects must fall into one of the grand challenge categories below:
@@ -53,6 +49,7 @@ All projects must fall into one of the grand challenge categories below:
 2. Direct Simulation from Computer-Aided-Design Tools
 3. Biomechanical Simulation for Digital Humans
 4. Machine Learning for Material Behaviour 
+5. Simulation on non-traditional geometric representation
 
 ## Helpful Resources  
 [The Variational Principles of Mechanics (Book)](https://search.library.utoronto.ca/details?1576571&uuid=24e9601f-a561-440e-b4f7-0162225ae73d)  
@@ -72,18 +69,18 @@ All projects must fall into one of the grand challenge categories below:
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction and [**Paper 1:** Elastically Deformable Objects](http://web.cs.ucla.edu/~dt/papers/siggraph87/siggraph87.pdf)
-| 2    | [**Paper 2:** Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf) [**Paper 3:** Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html)
-| 3    | [**Paper 4:** Meshless Deformations Based on Shape Matching](https://matthias-research.github.io/pages/publications/MeshlessDeformations_SIG05.pdf) [**Paper 5:** Robust Treatment of Collisions, Contact and Friction for Cloth Animation](https://graphics.stanford.edu/papers/cloth-sig02/cloth.pdf)
-| 4    | [**Paper 6:** Discrete Elastic Rods](http://www.cs.columbia.edu/cg/rods/) [**Paper 7:** Design and Fabrication of Flexible Rod Meshes](https://www.gmrv.es/Publications/2015/PTCBCSO15/PerezSIG2015.pdf)
-| 5    | [**Paper 8:** Velocity-Based Shock Propagation for Multibody Dynamics Animation](http://image.diku.dk/kenny/download/erleben.07a.pdf) [**Paper 9:** Incremental Potential Contact](https://ipc-sim.github.io) 
-| 6    | [**Paper 10:** Dynamics-Aware Numerical Coarsening for Fabrication Design](http://people.csail.mit.edu/desaic/projects/desdyn.html) [**Paper 11:** ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](http://crl.ethz.ch/papers/Geilinger20ADD.pdf)
-| 7    | [**Paper 12:** Data-Driven Models for Cloth Simulation](http://graphics.berkeley.edu/papers/Wang-DDE-2011-08/Wang-DDE-2011-08.pdf) and *Project Pitch Day*
-| 8    | Project updates and **Paper 14:** tba 
-| 9    | Project updates and **Paper 15:** [Variational Stokes](http://poisson.cs.uwaterloo.ca/stokes/)
-| 10   | Project updates and **Paper 16:** tba 
-| 11   | Project updates and **Paper 17:** tba 
-| 12   | Project updates and **Paper 18:** tba 
+| 1    | Introduction and assign [**Paper 1:** Projective Dynamics]
+| 2    | **Paper 2:** TBD
+| 3    | **Paper 3:** TBD
+| 4    | **Paper 4:** TBD
+| 5    | **Paper 5:** TBD
+| 6    | **Paper 6:** TBD
+| 7    | **Paper 7:** TBD
+| 8    | **Paper 8:** TBD
+| 9    | **Paper 9:** TBD
+| 10   | **Paper 10:** TBD
+| 11   | **Paper 11:** TBD
+| 12   | Presentations for **Paper 11**
 
 [Academic Honesty (required reading)](#academic-honesty)
 
@@ -91,9 +88,11 @@ All projects must fall into one of the grand challenge categories below:
 
 | % | Item |
 | ----: | :-------------- |
-| 25% | Reviewing 
-| 25% | Engineer/Presentation
-| 50% | Final Project 
+| 20% | Presentations
+| 20% | Reviewing 
+| 25% | Implementation
+| 30% | Final Project 
+| 5%  | Participation 
 
 ## Lateness Policy
 
