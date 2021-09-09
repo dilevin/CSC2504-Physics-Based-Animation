@@ -34,6 +34,8 @@ This course is a graduate *seminar* course on physics-based animation which will
 
 **Implementer:** You will have up to **two (2)** to implement as much of the paper as you can. Each week you will demonstrate your progress and discuss, the things you have learned, and issues that have arisen.
 
+**Blogger:** You will write a medium style blog post (i.e. like [this](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)) about the paper and submit it [here](physics.diwlevin.com). Posts are due one week after the implementation is finished. The post should take into account the experiences of the implementer.
+
 **Reviewer:** You will submit a high-quality review of the paper. Submit your review using the review form [here](https://forms.gle/nyqVhPmquHRKpaA48)
 
 ## Final Project Details
@@ -88,8 +90,9 @@ All projects must fall into one of the grand challenge categories below:
 
 | % | Item |
 | ----: | :-------------- |
-| 20% | Presentations
-| 20% | Reviewing 
+| 15% | Presentations
+| 10% | Reviewing 
+| 15% | Blogger
 | 25% | Implementation
 | 30% | Final Project 
 | 5%  | Participation 
