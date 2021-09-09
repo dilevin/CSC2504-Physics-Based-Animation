@@ -1,4 +1,4 @@
-# CSC2504-Physics-Based-Animation *Fall 2020*
+# CSC2504-Physics-Based-Animation *Fall 2021*
 ![_image courtesy David Levin_](images/EolPenguinFallZoomedOut.gif)
 
 - [Lectures](#Lectures)
