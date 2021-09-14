@@ -18,6 +18,8 @@ Tuesday 13:00-15:00 (first two weeks online) **NOTE: link sent via Quercus to re
 ## Office Hours
 Tuesday 15:00-16:00 (first two weeks online)
 
+[Discussion Board via Piazza](http://piazza.com/utoronto.ca/fall2021/csc2504)
+
 ## Course Summary
 
 This course is a graduate-level seminar course on physics-based animation. It will involve reading state-of-the-art papers in the field and implementing algorithms from those papers. The course will feature a final project based on the topic. 
@@ -81,9 +83,17 @@ All projects must fall into one of the grand challenge categories below:
 [Two-Minute Papers (YouTube not strictly physics, but cool)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) 
 
 [Prof. Shinjiro Sueda's Rigid Body Mechanics Notes for Joints](https://github.com/sueda/redmax/blob/master/notes.pdf)
-  
+
+## Useful Software Tools
+[Blender: Open-Source Modelling and Rendering Software](https://www.blender.org)
+
+[libigl: Lightweight C++ Geometry Processing Library](https://libigl.github.io)
+
+[gptoolbox: MATLAB Geometry Processing Library](https://github.com/alecjacobson/gptoolbox)
+
+[Bartels: C++ and MATLAB Utilities for Physics Simulation](https://github.com/dilevin/Bartels)
+
 ## Lecture Schedule
-**Don't Panic!:** Prof. Levin will present the first paper
 
 | Week | Topic / Event |
 | ---- | :------------ |
