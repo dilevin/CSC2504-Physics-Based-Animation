@@ -34,7 +34,7 @@ This course is a graduate *seminar* course on physics-based animation which will
 
 **Presenter:** Prepare a 20-30 minute conference style presentation about the paper. After your presentation you will take 10 minutes of questions from the audience.  
 
-*** Articles on reading papers ***
+***Articles on reading papers***  
 [How to read a research paper (CMU)](http://graphics.cs.cmu.edu/courses/15-869-F15/How%20to%20read%20a%20paper.pdf)
 
 [How to read a realisitc rendering paper (Morgan McGuire)](https://morgan3d.github.io/advanced-ray-tracing-course/reading-research.pdf)
