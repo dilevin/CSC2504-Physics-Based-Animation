@@ -34,6 +34,12 @@ This course is a graduate *seminar* course on physics-based animation which will
 
 **Presenter:** Prepare a 20-30 minute conference style presentation about the paper. After your presentation you will take 10 minutes of questions from the audience.  
 
+*** Articles on reading papers ***
+[How to read a research paper (CMU)](http://graphics.cs.cmu.edu/courses/15-869-F15/How%20to%20read%20a%20paper.pdf)
+
+[How to read a realisitc rendering paper (Morgan McGuire)](https://morgan3d.github.io/advanced-ray-tracing-course/reading-research.pdf)
+
+
 **Implementer:** You will have up to **two (2)** weeks to implement as much of the paper as you can. Each week you will demonstrate your progress and discuss, the things you have learned, and issues that have arisen.
 
 **Blogger:** You will write a medium style blog post (i.e. like [this](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)) about the paper and submit it [here](http://physics.diwlevin.com). Posts are due one week after the implementation is finished.
