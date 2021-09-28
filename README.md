@@ -15,6 +15,8 @@ diwlevin@cs.toronto.edu
 ## Lectures
 Tuesday 13:00-15:00 (first two weeks online) **NOTE: link sent via Quercus to registered students**
 
+Room: BA B026
+
 ## Office Hours
 Tuesday 15:00-16:00 (first two weeks online)
 
