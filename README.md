@@ -106,17 +106,17 @@ All projects must fall into one of the grand challenge categories below:
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1    | Introduction and assign [**Paper 1:** Projective Dynamics](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.html)
-| 2    | **Paper 2:** TBD
-| 3    | **Paper 3:** TBD
-| 4    | **Paper 4:** TBD
-| 5    | **Paper 5:** TBD
-| 6    | **Paper 6:** TBD
-| 7    | **Paper 7:** TBD
-| 8    | **Paper 8:** TBD
-| 9    | **Paper 9:** TBD
-| 10   | **Paper 10:** TBD
-| 11   | **Paper 11:** TBD
-| 12   | Presentations for **Paper 11**
+| 2    | Presentations for **Paper 1** and assign [**Paper 2:** Position Based Dynamics](https://www.cs.toronto.edu/~jacobson/seminar/mueller-et-al-2007.pdf)
+| 3    | Presentations for **Paper 2** and assign [**Paper 3:** Large Steps in Cloth Simulation](https://www.cs.cmu.edu/~baraff/papers/sig98.pdf)
+| 4    | Presentations for **Paper 3** and assign [**Paper 4:** Stable Fluids](https://dl.acm.org/doi/10.1145/311535.311548)
+| 5    | Presentations for **Paper 4** and assign [**Paper 5:** Velocity-based shock propagation for multibody dynamics animation](https://dl.acm.org/doi/10.1145/1243980.1243986)
+| 6    | Presentations for **Paper 5** and assign [**Paper 6:** Discrete Elastic Rods](http://www.cs.columbia.edu/cg/pdfs/143-rods.pdf)
+| 7    | Presentations for **Paper 6** and assign [**Paper 7:** WRAPD: Weighted Rotation-aware ADMM for Parameterization and Deformation](https://www-users.cse.umn.edu/~brow2327/wrapd/)
+| 8    | Presentations for **Paper 7** and assign [**Paper 8:** ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact](http://crl.ethz.ch/papers/Geilinger20ADD.pdf)
+| 9    | Presentations for **Paper 8** and assign [**Paper 9:** Fast Linking Numbers for Topology Verification of Loopy Structures](https://graphics.stanford.edu/papers/fastlinkingnumbers/)
+| 10   | Presentations for **Paper 9** and assign [**Paper 10:** Kelvin Transformations for Simulations on Infinite Domains](https://cseweb.ucsd.edu//~viscomp/projects/SIG21KelvinTransform/)
+| 11   | Presentations for **Paper 10**
+| 12   | Surprise session
 
 [Academic Honesty (required reading)](#academic-honesty)
 
